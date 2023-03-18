@@ -1,4 +1,4 @@
-<img align="left" height="250" src="https://pbs.twimg.com/profile_banners/843458419352854528/1620895643/1080x360"></img>
+<img align="center" height="250" src="https://pbs.twimg.com/profile_banners/843458419352854528/1620895643/1080x360"></img>
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">Writing code is my passion and I am a software engineering student at Firat University.</h3>
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e470v7esrlpn9dajgo93cs44rj14ursdk5791xj1nbm&rid=giphy.gif&ct=g"></img>
