@@ -15,12 +15,12 @@
 - 📫 How to reach me **omer.ozturk.or.ok@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/0mer__0zturk" target="blank">Twitter<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0mer__0zturk" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/%C3%B6mer-%C3%B6zt%C3%BCrk-935322217/" target="blank">LinkedIn<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer öztürk" height="30" width="40" /></a>
-<a href="https://instagram.com/0mer.0zturk" target="blank">Instagram<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0mer.0zturk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@omer.ozturk" target="blank">Youtube<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@omer.ozturk" height="30" width="40" /></a>
-<a href="https://discord.gg/Ömer Öztürk#4459" target="blank">Discord<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ömer Öztürk#4459" height="30" width="40" /></a>
+<p align="left">
+<a href="https://twitter.com/0mer__0zturk" target="blank">Twitter<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0mer__0zturk" height="30" width="40" />&emsp;&emsp;</a>
+<a href="https://www.linkedin.com/in/%C3%B6mer-%C3%B6zt%C3%BCrk-935322217/" target="blank">LinkedIn<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer öztürk" height="30" width="40" />&emsp;&emsp;</a>
+<a href="https://instagram.com/0mer.0zturk" target="blank">Instagram<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0mer.0zturk" height="30" width="40" />&emsp;&emsp;</a>
+<a href="https://www.youtube.com/@omer.ozturk" target="blank">Youtube<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@omer.ozturk" height="30" width="40" />&emsp;&emsp;</a>
+<a href="https://discord.gg/Ömer Öztürk#4459" target="blank">Discord<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ömer Öztürk#4459" height="30" width="40" />&emsp;&emsp;</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1omerozturk&show_icons=true&locale=en&layout=compact" alt="1omerozturk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1omerozturk&show_icons=true&locale=en" alt="1omerozturk" /></p>
+<p>&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1omerozturk&show_icons=true&locale=en" alt="1omerozturk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1omerozturk&" alt="1omerozturk" /></p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1omerozturk&" alt="1omerozturk" /></p>
