@@ -6,7 +6,7 @@
 
 <p align="left">  <a title="omerozturk.com" href="http://www.omerozturk.epizy.com" target="_blank"> My Web Page <img align="left" height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F4%2FWorld-Wide-Web-PNG-Pic-180x180.png&f=1&nofb=1&ipt=62144ba243989163007a8fb4596fe34dcef33c3903bd7751d2ce3625b731d8af&ipo=images" title="omerozturk.com" alt="omerozturk.com" /></a> </p>
 
-
+<br/>
 - 🌱 I’m currently learning **React, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/1omerozturk](https://github.com/1omerozturk)
