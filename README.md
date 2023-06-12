@@ -1,5 +1,5 @@
 <img align="rigth" height="250" src="https://pbs.twimg.com/profile_banners/843458419352854528/1620895643/1080x360"></img>
-<h1 align="center">Hi 👋, I'm Ömer</h1>
+<h1 align="center">Hi 👋, I' m Ömer</h1>
 <h3 align="right">Writing code is my passion and I am a software engineering student at Firat University.</h3>
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e470v7esrlpn9dajgo93cs44rj14ursdk5791xj1nbm&rid=giphy.gif&ct=g"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1omerozturk&label=Profile%20views&color=0e75b6&style=flat" alt="1omerozturk" /> </p>
