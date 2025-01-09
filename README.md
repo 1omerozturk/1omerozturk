@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I' m Ömer</h1>
 <h3 align="right">Writing code is my passion and I am a software engineering student at Firat University.</h3>
-<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e470v7esrlpn9dajgo93cs44rj14ursdk5791xj1nbm&rid=giphy.gif&ct=g"></img>
+<img align="right" alt="Coding" width="350" height="350" src="https://i.pinimg.com/originals/08/15/ce/0815ce3d3aa3b76b0097180f6ec21ce0.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1omerozturk&label=Profile%20views&color=0e75b6&style=flat" alt="1omerozturk" /> </p>
 
 <p align="left">  <a title="omerozturk.com" href="https://www.omerozturk.epizy.com" target="_blank"> My Web Page <img align="left" height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F4%2FWorld-Wide-Web-PNG-Pic-180x180.png&f=1&nofb=1&ipt=62144ba243989163007a8fb4596fe34dcef33c3903bd7751d2ce3625b731d8af&ipo=images" title="omerozturk.com" alt="omerozturk.com" /></a> </p>
