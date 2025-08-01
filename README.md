@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I' m Ömer</h1>
-<h3 align="right">Writing code is my passion and I am a software engineering student at Firat University.</h3>
+<h3 align="right">Writing code is my passion...</h3>
 <img align="right" alt="Coding" width="350" height="350" src="https://i.pinimg.com/originals/08/15/ce/0815ce3d3aa3b76b0097180f6ec21ce0.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1omerozturk&label=Profile%20views&color=0e75b6&style=flat" alt="1omerozturk" /> </p>
 
